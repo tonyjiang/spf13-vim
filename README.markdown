@@ -7,6 +7,9 @@
         |___/ .__/|_| |_|____/        \_/  |_|_| |_| |_|
             |_|
 
+On your Mac, this repo is likely located here: /Users/username/.spf13-vim-3. It's not affected
+by any upgrade of vim.
+
 spf13-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
 
 It is a good starting point for anyone intending to use VIM for development running equally well on Windows, Linux, \*nix and Mac.
