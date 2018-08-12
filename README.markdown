@@ -10,9 +10,9 @@
 On your Mac, this repo is likely located here: /Users/username/.spf13-vim-3. It's not affected
 by any upgrade of vim.
 
-spf13-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
+spf13-vim is a distribution of Vim plugins and resources for Vim, Gvim and [MacVim].
 
-It is a good starting point for anyone intending to use VIM for development running equally well on Windows, Linux, \*nix and Mac.
+It is a good starting point for anyone intending to use Vim for development running equally well on Windows, Linux, \*nix and Mac.
 
 The distribution is completely customisable using a `~/.vimrc.local` and `~/.vimrc.bundles.local` Vim RC files.
 
